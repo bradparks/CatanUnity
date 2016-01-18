@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\SettNode.cs">
+    <Files>
+      <File FileName="Assets\Code\R.cs" Line="15" Column="8" />
+      <File FileName="Assets\Code\HexNode.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Point.cs" Line="11" Column="1" />
+      <File FileName="Assets\Code\NodeHolder.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\TestScript.cs" Line="34" Column="4" />
+      <File FileName="Assets\Code\SettNode.cs" Line="73" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
